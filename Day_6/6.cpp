@@ -8,4 +8,5 @@ int main(){
     for(int x = 2; x>=0;x--){
         cout<<tickets[x]<<endl;
     }
+    for(int x = y; y)
 }
